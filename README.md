@@ -1,10 +1,13 @@
 #AngularTest
+
 Create a page depicting a form designer, where a user can create a custom field from the default field types available and dynamically display a form
 
 #Getting Started
+
 Change directory into angular-test and write the command ng-serve --open The project will run on the localhost:4200
 
 #Prerequisites
+
 Install Node package npm install / npm i
 
 #Installing
@@ -34,7 +37,8 @@ The application should then compile and launch in your default browser.
 
 If these steps don't work for you, see STACKBLITZ below.
 
-#Locations of the component and component is in the zip file
+#Locations
+ component is in the zip file
   There are three components which is form component, Preview component and update componnet
   -form component : 70% left side of the page and shows empty table with headers, a preview button and add button. 
   -Update omponent: 30% right side of the page and shows a form as shown in above picture 
